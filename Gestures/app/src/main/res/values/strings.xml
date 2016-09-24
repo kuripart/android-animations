@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gestures</string>
+    <string name="gesture"></string>
+    <string name="dodo_name" />
+</resources>
